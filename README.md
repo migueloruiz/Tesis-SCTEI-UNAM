@@ -1,10 +1,6 @@
 # Tesis-Sistema para Captura de Time-lapse y Estabilización de Imagen
-#FACULTAD DE INGENIERÍA
-#DIVISIÓN DE INGENIERÍA MECANICÁNICA E INDUSTRIAL
 
-
-
-En el presente documento se expone la investigación, análisis y desarrollo, así como construcción del modelo funcional del “Sistema para captura de time-lapse y estabilización de imagen”. 
+Repositorio del documento se expone la investigación, análisis y desarrollo, así como construcción del modelo funcional del “Sistema para captura de time-lapse y estabilización de imagen”. 
 
 En este proyecto se plantea el proceso de diseño de un sistema orientado a la industria de la fotografía y cinematografía, el cual propone ayudar al usuario conjuntando dos funciones recurrentes en el campo, la captura de time-lapse (variación de la frecuencia de captura de fotogramas) y la estabilización de imagen para escenas en movimiento. 
 
@@ -16,4 +12,22 @@ A lo largo del capítulo cuatro se desglosan las funciones y sub-funciones del s
 Una vez determinada la configuración del sistema se prosigue en el capítulo seis con el diseño a detalle del sistema, seleccionado, analizando y diseñando los diferentes componentes del sistema, así como el diseño de algoritmos de programación. En el capítulo siete se resume el proceso de integración, implementación y construcción de los múltiples elementos que comprenden el sistema. Continuando a través del capitulo ocho, se presenta la serie de pruebas realizadas a los elementos que conforman la solución con la finalidad de observar que su comportamiento es el esperado y predecir posibles fallas que afecten al dispositivo. Para finalizar, en el capítulo nueve se presentan las conclusiones generadas a partir del desarrollo de este trabajo y posibles sugerencia para trabajo a futuro.
 
 Del mismo modo este documento contiene cuatro apéndices en los cuales se encuentra a detalle el conjunto de planos electrónicos y mecánicos, los códigos implementados en los sistemas y material audiovisual como evidencia del funcionamiento del sistema.
+
+## Credits
+
+Institucion: Universidad Nacional Autónoma de México
+Facultad: Facultad de Ingeniería
+Autor: Miguel Ángel Ruiz Gálvez
+Director de Tesis: M.A. Luis Yair Bautista Blanco
+
+## License
+
+UNAM – Dirección General de Bibliotecas Tesis Digitales
+Restricciones de uso
+DERECHOS RESERVADOS ©
+PROHIBIDA SU REPRODUCCIÓN TOTAL O PARCIAL
+Todo el material contenido en esta tesis esta protegido por la Ley Federal del Derecho de Autor (LFDA) de los Estados Unidos Mexicanos (México).
+
+El uso de imágenes, fragmentos de videos, y demás material que sea objeto de protección de los derechos de autor, será exclusivamente para fines educativos e informativos y deberá citar la fuente donde la obtuvo mencionando el autor o autores. Cualquier uso distinto como el lucro, reproducción, edición o modificación, será perseguido y sancionado por el respectivo titular de los Derechos de Autor.
+
 
